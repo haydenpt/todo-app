@@ -13,13 +13,6 @@
       "date": "2021-12-06",
       "starred": true,
       "id": 2
-    },
-    {
-      "text": "Hello World",
-      "time": "00:00",
-      "date": "2022-01-01",
-      "starred": false,
-      "id": 3
     }
   ]
 }

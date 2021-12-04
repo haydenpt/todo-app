@@ -47,7 +47,6 @@ const fetchTasks = async () => {
     <div className='container'>
       <Header />
       <AddTask addTask={addtask} />
-      <p><i>Double click on a task to mark as important</i></p>
       {tasks.length > 0 ?
         <Tasks tasks={tasks} 
                deleteTask={deleteTask} /> :
