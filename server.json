@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "text": "Hayden's birthday",
+      "time": "23:59",
+      "date": "2021-10-16",
+      "starred": true,
+      "id": 1
+    },
+    {
+      "text": "MISSO Election day",
+      "time": "17:30",
+      "date": "2021-12-06",
+      "starred": true,
+      "id": 2
+    },
+    {
+      "text": "Hello World",
+      "time": "00:00",
+      "date": "2022-01-01",
+      "starred": false,
+      "id": 3
+    }
+  ]
+}
