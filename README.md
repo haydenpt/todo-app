@@ -1,5 +1,5 @@
 # Heroku deployment
-See the deployed app on Heroku >>> https://misso-tech.herokuapp.com/
+See the deployed app on Heroku >>> https://misso-tech.herokuapp.com
 
 ## Available Scripts
 
